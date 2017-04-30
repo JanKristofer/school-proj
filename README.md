@@ -1,2 +1,2 @@
 # Pretty Huge Dictionary
-a Dictionary 
+An online dictionary based on mvc2 and mysql.
